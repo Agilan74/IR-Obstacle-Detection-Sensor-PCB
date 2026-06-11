@@ -47,6 +47,10 @@ The LM358 operational amplifier processes this signal and produces an output ind
 
 - KiCad 9
 
+## Manufacturing Files
+
+Gerber and drill files required for PCB fabrication are available in the Gerber_Files directory.
+
 ## Author
 
 Agilan Loganathan
