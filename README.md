@@ -1,5 +1,9 @@
 # IR Obstacle Detection Sensor PCB
 
+A custom-designed IR obstacle detection sensor PCB developed using KiCad and LM358 operational amplifier for robotics, automation, and STEM applications.
+
+# IR Obstacle Detection Sensor PCB
+
 ## Overview
 
 This project is a custom IR Obstacle Detection Sensor PCB designed using KiCad.
